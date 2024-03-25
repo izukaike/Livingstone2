@@ -21,4 +21,11 @@ Pressure Transducer Diagram
 
 <img width="288" alt="image" src="https://github.com/izukaike/Livingstone2/assets/117411866/9ad20991-811f-4735-8930-f1167d61e04b">
 
+Pin Out
+
+<img width="606" alt="image" src="https://github.com/izukaike/Livingstone2/assets/117411866/bea084a5-2749-4e1e-afc4-2cce798c0ceb">
+
+
+
+
 
