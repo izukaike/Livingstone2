@@ -23,7 +23,8 @@ Pressure Transducer Diagram
 
 Pin Out
 
-<img width="590" alt="image" src="https://github.com/izukaike/Livingstone2/assets/117411866/8a3fb4cf-6a07-49ce-a1cc-01e86db430a9">
+<img width="589" alt="image" src="https://github.com/izukaike/Livingstone2/assets/117411866/fbf33c77-20cd-472f-9aaa-1e7b5f5031ae">
+
 
 
 
